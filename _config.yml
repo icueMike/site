@@ -2,7 +2,7 @@ name: Mundana
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-baseurl: '/schematx/'
+baseurl: '/'
 disqus: demowebsite
 email: wowthemesnet@gmail.com
 mailchimp-list: >-
@@ -55,4 +55,4 @@ exclude:
   - Gruntfile.js
   - Gruntfile.coffee
   - node_modules
-url: 'https://schematx.github.io'
+url: 'https://schematx.github.io/schematx/'
