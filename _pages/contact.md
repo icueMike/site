@@ -17,7 +17,7 @@ permalink: "/contact.html"
   <input type="email" name="email" />
   <label>Message:</label>
   <input type="text" name="message" />
-  <button id="my-form-button">Submit</button>
+  <button id="my-form-button">Sunbmit</button>
   <p id="my-form-status"></p>
 </form>
 
