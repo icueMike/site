@@ -55,4 +55,4 @@ exclude:
   - Gruntfile.js
   - Gruntfile.coffee
   - node_modules
-url: 'https://schematx.github.io/schematx/'
+url: 'https://schematx.github.io/c'
