@@ -2,7 +2,8 @@ name: icueMike
 description: 'This website is for people who loves all things Path of Exile, Last Epoch, World of Warcraft and general everyday web coding.'
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-baseurl: '/'
+# baseurl: '/'
+baseurl: 'http://icuemike.xyz/'
 disqus: icuemike
 email: icuemike@outlook.com
 mailchimp-list: >-
@@ -18,7 +19,7 @@ plugins:
 authors:
   icueMike:
     name: icueMike
-    site: 'https://icuemike.github.io/site'
+    site: 'http://icuemike.xyz'
     avatar: /assets/images/icueMike.png
     bio: >-
       Hi, I am Mike, the author and developer of your reading about right now. I hope you my website!
@@ -54,4 +55,4 @@ exclude:
   - Gruntfile.js
   - Gruntfile.coffee
   - node_modules
-url: 'https://icuemike.github.io/site'
+url: 'http://icuemike.xyz'
